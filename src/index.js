@@ -34,3 +34,4 @@ mongoose.connect('mongodb://localhost/mydatabase', {
     console.error('Error connecting to MongoDB:', error);
   });
   
+  
